@@ -9,7 +9,6 @@ body {
 
 .container {
   background-color: white;
-  /*margin: 0px 10% 0px 10%;*/
 }
 
 .heading {
@@ -52,7 +51,7 @@ body {
 .timeline:before {
   content: " ";
   width: 1px;
-  background: 1px #ccc;
+  background: 1px #790707;
   height: 100%;
   position: absolute;
   left: calc(10% + 50px);
@@ -72,13 +71,13 @@ body {
 .timeline ul li .year {
   display: block;
   font-size: 30px;
-  color: #048f91;
+  color: #06595a;
   background-color: white;
   height: 40px;
   width: 100px;
   margin: 0 0 0 10%;
   box-shadow: 0px 0px 5px 0px #ccc;
-  border: 1px solid #048f91;
+  border: 1px solid #06595a;
   border-radius: 20px;
 }
 
@@ -99,7 +98,7 @@ body {
 
 
 .quote-link {
-  background-color: #06595a;
+  background-color: #014749;
   color: white;
   padding: 40px 10% 30px 10%;
 }
