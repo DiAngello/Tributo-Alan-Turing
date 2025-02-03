@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiAngello/Tributo-Alan-Turing">
-    <img src="https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/alan_logo." width="150" alt="Logo" >  </a>
+    <img src="https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/alan_logo.png" width="150" alt="Logo" >  </a>
 
   <h3 align="center">Tributo Alan Turing</h3>
 
