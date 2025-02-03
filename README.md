@@ -48,8 +48,8 @@ A página apresenta uma linha do tempo interativa com os principais eventos da v
 
 ### Tecnologias 
 
-*   HTML
-*   CSS
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -63,7 +63,7 @@ A página apresenta uma linha do tempo interativa com os principais eventos da v
 
 1.  Clone o repositório:
     ```sh
-    git clone https://github.com/DiAngello/Tributo-Alan-Turing.git]
+    git clone https://github.com/DiAngello/Tributo-Alan-Turing.git
     ```
 2.  Abra o arquivo `index.html`  no seu navegador web.
 
@@ -71,7 +71,7 @@ A página apresenta uma linha do tempo interativa com os principais eventos da v
 
 ## Uso 
 
-Ao abrir a página web, você verá uma foto de Alan Turing, uma breve descrição sobre ele e uma linha do tempo com os principais eventos de sua vida. Você pode navegar pela linha do tempo para aprender mais sobre cada evento. A página também inclui uma citação de Alan Turing.
+Ao abrir a página web, você verá uma breve descrição sobre ele e uma linha do tempo com os principais eventos de sua vida. Você pode navegar pela linha do tempo para aprender mais sobre cada evento. 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
