@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiAngello/Tributo-Alan-Turing">
-    <img src="https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/alan_logo.png" width="150" alt="Logo" >  </a>
+    <img src="https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/alan_logo." width="150" alt="Logo" >  </a>
 
   <h3 align="center">Tributo Alan Turing</h3>
 
@@ -39,7 +39,7 @@
 
 ## Sobre o projeto 
 
-![Demo]()  
+![Demo](https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/ala_gif.gif)  
 Esta página web foi criada para homenagear Alan Turing e fornecer informações sobre sua vida, suas realizações e seu legado. 
 A página apresenta uma linha do tempo interativa com os principais eventos da vida de Turing, desde seu nascimento até sua morte, destacando suas contribuições para a matemática, a computação, a criptografia e a inteligência artificial.
 
