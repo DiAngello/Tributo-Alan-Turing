@@ -40,8 +40,9 @@
 ## Sobre o projeto 
 
 ![Demo](https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/ala_gif.gif)  
-Esta página web foi criada para homenagear Alan Turing e fornecer informações sobre sua vida, suas realizações e seu legado. 
-A página apresenta uma linha do tempo interativa com os principais eventos da vida de Turing, desde seu nascimento até sua morte, destacando suas contribuições para a matemática, a computação, a criptografia e a inteligência artificial.
+
+<p>Esta página web foi criada para homenagear Alan Turing e fornecer informações sobre sua vida, suas realizações e seu legado. 
+A página apresenta uma linha do tempo interativa com os principais eventos da vida de Turing, desde seu nascimento até sua morte, destacando suas contribuições para a matemática, a computação, a criptografia e a inteligência artificial.<p/>
 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
