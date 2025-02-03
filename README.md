@@ -1,8 +1,8 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/DiAngello/">
-    <img src="" alt="Logo" >  </a>
+  <a href="https://github.com/DiAngello/Tributo-Alan-Turing">
+    <img src="https://github.com/DiAngello/Tributo-Alan-Turing/blob/main/alan_logo.png" width="150" style="border-radius= 40px;" alt="Logo" >  </a>
 
   <h3 align="center">Tributo Alan Turing</h3>
 
